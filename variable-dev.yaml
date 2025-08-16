@@ -1,0 +1,6 @@
+login_user: root
+login_host: db-dev.rajasekhar.store
+login_password: ExpenseApp1
+DB_HOST: db-dev.rajasekhar.store  
+BACKEND_API_URL: backend.app-dev.rajasekhar.store
+nexus_url: nexus.rajasekhar.store:8081

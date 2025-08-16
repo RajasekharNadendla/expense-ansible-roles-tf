@@ -1,0 +1,5 @@
+login_user: root
+login_host: db-prod.rajasekhar.store
+login_password: ExpenseApp@1
+DB_HOST: db-prod.rajasekhar.store
+BACKEND_API_URL: backend.app-prod.rajasekhar.store
